@@ -24,7 +24,7 @@ const Footer = () => {
               <span className={footerStyles.logo_name}>CoderHall</span>
             </div>
             <div className={footerStyles[`media-icons`]}>
-              <Link href="#">
+              <Link href="https://www.facebook.com/grh.mamun" target="__blank">
                 <i>
                   {" "}
                   <FaFacebookF />{" "}
