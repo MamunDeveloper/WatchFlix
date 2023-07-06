@@ -127,7 +127,7 @@
   /* hide the original nav menu  */
   .navbarList {
     width: 100vw;
-    height: 100vh;
+    height: 98vh;
     position: absolute;
     top: 0;
     left: 0;
